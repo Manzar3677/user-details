@@ -1,0 +1,14 @@
+[{
+	"home": {
+		"username": "Manzar Hussain",
+		"designation": ["Software Engineer", "Front End Developer", "Full Stack Developer", "Mean Stack Developer", "Software Engineer"],
+		"short_description": "High Level 3+ experience in web design and development knowledge, producing quality work.",
+		"avatar": ""
+	},
+	"about": {
+		"des": "HI"
+	},
+	"skills": {
+		"skills_name": ["Angular 2+", "Angular JS", "React JS", "JavaScript", "Khoros"]
+	}
+}]
